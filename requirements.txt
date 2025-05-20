@@ -1,0 +1,6 @@
+# filepath: c:\Code\Hobbies\Face Recognition File explorer\requirements.txt
+face_recognition>=1.3.0
+opencv-python==4.5.5.64
+pillow>=8.0.0
+numpy==1.23.5
+scikit-learn>=1.0.0
